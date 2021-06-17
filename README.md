@@ -1,2 +1,2 @@
 # MyCertifications
-Certificates obtained from various platforms, programs
+Certifications obtained from various platforms, programs
